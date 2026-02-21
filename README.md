@@ -3,7 +3,9 @@
 
 > *"Code is how I talk to electronics. Let's build something amazing together."*
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+
 
 
 
@@ -70,73 +72,3 @@ I'm a passionate **student developer** who loves exploring the intersection of *
 
 ---
 
-## 🚀 **Featured Projects**
-
-### 🌐 **Web Development**
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Attendify**](https://github.com/kalyxon/Attendify) | Smart Student Attendance Android App with multiple features | JavaScript |
-| [**Text-Messaging-App**](https://github.com/kalyxon/text-messaging-app) | Simple web app for real-time text messaging | JavaScript, Node.js |
-| [**Kalyxon Learning Hub**](https://github.com/kalyxon/kalyxon-learning-hub) | Well-organized web app for tutorials | CSS, HTML |
-
-### 🤖 **IoT & Embedded**
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Self-Balancing Robot**](https://github.com/kalyxon/self-balancing-robot) | ESP32-based robot with PID control and web interface | C++ |
-| [**Arduino Diagnostic Tester**](https://github.com/kalyxon/arduino-diagnostic-tester) | Web app that tests Arduino pins, SPI, I2C, Serial | C++, HTML |
-| [**ESP32 Smart Home**](https://github.com/kalyxon/esp32-smart-home) | Complete smart home automation system | C++ |
-| [**Mini Pro FPV**](https://github.com/kalyxon/mini-pro-fpv) | FPV drone components testing platform | C++ |
-
-### 🧠 **Machine Learning (Coming Soon)**
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| Coming soon! | Building ML models for predictive analytics | Python, TensorFlow |
-
----
-
-## 📚 **What I'm Currently Learning**
-
-```javascript
-const kalyxonLearning = {
-  currentFocus: "Machine Learning & AI",
-  
-  skillsInProgress: {
-    python: ["NumPy", "Pandas", "Matplotlib", "Scikit-learn"],
-    ml: ["Supervised Learning", "Neural Networks", "Computer Vision"],
-    web: ["Advanced React Patterns", "Next.js", "GraphQL"],
-    iot: ["RTOS", "MQTT", "Edge Computing"]
-  },
-  
-  goals2026: [
-    "Build 5 ML projects",
-    "Contribute to open source",
-    "Create an IoT + ML project",
-    "Start tech blogging"
-  ],
-  
-  funFact: "I debug hardware with software and software with hardware!"
-};
-📈 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░   48% 
-C++          8 hrs 15 mins   ████████░░░░░░░░░░░░░   32% 
-Python       3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░   15% 
-HTML/CSS     1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░    5% 
-<!--END_SECTION:waka-->
-🤝 Connect With Me
-<p align="center"> <a href="https://github.com/kalyxon"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=kalyxon&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-🎯 Open to Opportunities
-I'm currently looking for:
-
-💼 Internship opportunities in Web Dev / IoT / ML
-
-🤝 Collaboration on interesting open source projects
-
-🧪 Beta testers for my Arduino Diagnostic Tool
-
-📝 Guest blogging opportunities
-
-Let's build something amazing together! Drop me a message 👆
-
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p><p align="center"> <i>✨ Code is poetry written for machines to understand ✨</i> </p> ```
