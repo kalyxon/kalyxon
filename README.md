@@ -1,13 +1,8 @@
-
 ## 👋 Hi, I'm Kalyxon! 
 
 > *"Code is how I talk to electronics. Let's build something amazing together."*
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-
-
-
 
 I'm a passionate **student developer** who loves exploring the intersection of **web development** and **embedded systems**. Currently diving deep into multiple tech stacks while building cool projects!
 
@@ -59,16 +54,39 @@ I'm a passionate **student developer** who loves exploring the intersection of *
 
 ---
 
-## 📊 **GitHub Stats**
 
+
+
+
+
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalyxon&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalyxon&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalyxon&theme=radical&hide_border=false&area=true&custom_title=Kalyxon's%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
 </p>
 
+<!-- Contribution Snake Animation -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyxon&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalyxon/kalyxon/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalyxon/kalyxon/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kalyxon/kalyxon/output/github-contribution-grid-snake.svg" width="95%" />
+  </picture>
 </p>
 
 ---
 
+## 🤝 **Connect With Me**
+
+<p align="center">
+  <a href="https://github.com/kalyxon">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:k4lyx0n@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kalyxon&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
