@@ -64,14 +64,7 @@ I'm a passionate **student developer** who loves exploring the intersection of *
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalyxon&theme=radical&hide_border=false&area=true&custom_title=Kalyxon's%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
 </p>
 
-<!-- Contribution Snake Animation -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalyxon/kalyxon/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalyxon/kalyxon/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kalyxon/kalyxon/output/github-contribution-grid-snake.svg" width="95%" />
-  </picture>
-</p>
+
 
 ---
 
