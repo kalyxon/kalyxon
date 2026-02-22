@@ -2,7 +2,6 @@
 
 > *"Code is how I talk to electronics. Let's build something amazing together."*
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 I'm a passionate **student developer** who loves exploring the intersection of **web development** and **embedded systems**. Currently diving deep into multiple tech stacks while building cool projects!
 
