@@ -51,19 +51,6 @@ I'm a passionate **student developer** who loves exploring the intersection of *
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
-
-
-
-
-
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalyxon&theme=radical&hide_border=false&area=true&custom_title=Kalyxon's%20Contribution%20Graph" width="95%" alt="Activity Graph"/>
-</p>
-
-
 
 ---
 
