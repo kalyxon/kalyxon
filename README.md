@@ -64,9 +64,6 @@ I'd rather make steady, small progress on things that are useful than chase some
 I'm always glad to connect with people who are curious about similar things — feel free to say hello.
 
 
-<div align="center">
-  <img src="./assets/bird.gif" width="300" alt="bird" />
-</div>
 
 
 </div>
